@@ -1,0 +1,20 @@
+DATA RESOURCES:
+
+JSON formatter and validator:
+https://jsonformatter.curiousconcept.com/
+
+Weather Underground API:
+https://www.wunderground.com/weather/api/?MR=1
+
+JSON formatted NYC weather:
+http://api.wunderground.com/api/8e54910369119eef/conditions/q/NY/New_York.json
+
+Assorted static JSON data sets:
+https://github.com/dariusk/corpora/tree/master/data
+
+Assorted public APIs:
+https://github.com/toddmotto/public-apis
+
+ISS location:
+http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+
